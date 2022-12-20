@@ -4,7 +4,7 @@
 
 - 👨‍🎓 I have been studying and developing web development projects for two years, apart from university.
 - 🌱 I love learning new things and facing new challenges.
-- 🧠 I am currently working as a freelancer for companies in my area, creating full-stack web applications.
+- 🧠 I am currently in the penultimate year of my university career. 
 
 # My skills
 | **Programming** |**Front End** |**Back End**|
