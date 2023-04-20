@@ -5,7 +5,7 @@
 - 👨‍🎓 I have been studying and developing web development projects for two years, apart from university.
 - 🌱 I love learning new things and facing new challenges.
 - 🧠 I am currently in the ultimate year of my university career.
-- 📢 I am one of the founders and manager of the official organization of my university career. check it out! => https://github.com/UBB-IECI
+- 📢 I am one of the founders and manager of the official organization of my university career. check it out! => [https://github.com/UBB-IECI](https://github.com/ubiobio)
 
 # My skills
 | **Programming** |**Front End** |**Back End**|
