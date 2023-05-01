@@ -21,7 +21,3 @@
 | :---: | :---: |
 | ![AWS](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9900) | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-## Certificaciones
-<p align="center">
-  <img src="https://github.com/camjasaez/certificados/blob/main/diploma-backend-javascript.png" alt="Certifificacion desarrollo backend con JavaScript"/>
-</p>
