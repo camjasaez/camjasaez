@@ -4,7 +4,7 @@
 
 _See my portafolio https://camilosaez.me_
 
-- 💻 I'm Software Developer at [GatBlac](https://gatblac.com/)
+- 💻 I'm Software Developer at [Gatblac](https://gatblac.com/)
 - 🌱 I love learning new things and facing new challenges.
 - 🧠 I have a degree in software engineering.
 - 📢 I am one of the founders and vice-president of the official organization of my university. Check it out! => [https://github.com/ubiobio](https://github.com/ubiobio)
